@@ -34,6 +34,7 @@
 - Czapka z daszkiem
 - Klapki
 - Strój kąpielowy
+- Dresy
 
 ## Wycieczki / podróż
 - Mały plecak na wycieczki
