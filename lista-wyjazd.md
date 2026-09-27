@@ -18,6 +18,8 @@
 ## Leki
 - Leki
 - Enderol
+- Ibuprom
+- Nimesil
 
 ## Łazienka / higiena
 - Pasta do zębów
